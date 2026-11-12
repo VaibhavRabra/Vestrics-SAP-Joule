@@ -1,0 +1,6 @@
+{
+  "name": "Vestrics Solutions | SAP Joule AI Copilot",
+  "description": "Explore SAP Joule generative AI capabilities with Vestrics Solutions, authorized SAP Gold Partner. System compatibility check and enterprise ERP guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
